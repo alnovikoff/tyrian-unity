@@ -1,5 +1,7 @@
 Tyrian game made with Unity engine
 
+Project was created as part of a university course Game Development I at MUNI
+
 - 3 levels
 - Movement, shooting, collision
 - Usage of animations, animations events
