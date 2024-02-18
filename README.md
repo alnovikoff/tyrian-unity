@@ -10,3 +10,7 @@ Project was created as part of a university course Game Development I at MUNI
 - Audio manager
 
 This project does not contain: object pool for optimal object lifecycle
+
+![img1](https://github.com/alnovikoff/tyrian-unity/blob/main/showcase/1.png)
+![img2](https://github.com/alnovikoff/tyrian-unity/blob/main/showcase/2.png)
+![img3](https://github.com/alnovikoff/tyrian-unity/blob/main/showcase/3.png)
